@@ -12,7 +12,7 @@ ReactJS CRUD uses:
 
 # Installation 
 <pre>
-$ git clone https://github.com/yogesh-kumawat/basic-crud-react.git
+$ git clone https://github.com/pandeyaditya0002/Basic-Crud-opration.git
 $ cd basic-crud-react
 $ npm install
 $ npm start
@@ -20,5 +20,6 @@ $ npm start
 
 # Demo
 
-https://stackblitz.com/edit/react-basic-crud?file=index.js
+https://basic-crud-opration.vercel.app/
 # Basic-Crud-opration
+
